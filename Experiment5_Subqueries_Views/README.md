@@ -174,7 +174,8 @@ where salesman_id=(select salesman_id from salesman where name="Paul Adam");
 
 <img width="1131" height="419" alt="image" src="https://github.com/user-attachments/assets/49b4c9d9-4ad9-41ee-9957-8bdaaa4fdc66" />
 
-<img width="1919" height="1150" alt="Screenshot 2025-11-18 102044" src="https://github.com/user-attachments/assets/eea87a19-5edb-42b4-8526-e7a86ef4fdaf" />
+<img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/e4fde161-a882-495c-a55b-02c7adf9a709" />
+
 
 
 ## RESULT
