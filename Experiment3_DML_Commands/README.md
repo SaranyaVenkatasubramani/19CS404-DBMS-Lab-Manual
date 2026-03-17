@@ -185,7 +185,8 @@ where specialization is null;
 
 <img width="609" height="517" alt="image" src="https://github.com/user-attachments/assets/cde49bf8-0eeb-428a-bc06-133b060b1c47" />
 
-<img width="1918" height="1146" alt="Screenshot 2025-11-18 102012" src="https://github.com/user-attachments/assets/b41292cc-b7f8-4740-9b31-4f63e4051d25" />
+<img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/177b1c62-74d1-4112-a83b-b61df578f53d" />
+
 
 ## RESULT
 Thus, the SQL queries to implement DML commands have been executed successfully.
