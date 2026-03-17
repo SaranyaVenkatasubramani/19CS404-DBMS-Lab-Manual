@@ -274,6 +274,7 @@ ORDER BY c.customer_id ASC;
 
 <img width="833" height="504" alt="image" src="https://github.com/user-attachments/assets/4a7ddb60-9fe9-40c6-8fd8-8cb3362ce49c" />
 
+<img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/9e14586b-ef1b-493d-94cb-c0273aeec8d0" />
 
 
 ## RESULT
